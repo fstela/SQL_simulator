@@ -6,7 +6,6 @@
   This project simulates a SQL database by either receiving commands from the console, or from a file passed as an argument to the program. The commands are `case-sensitive`, and while all the keywords are written in uppercase, the name of the tables and columns will be written in lowercase. The input types have been narrowed down to `integer, float, text`. 
   As soon as the program starts, the user will be provided with a menu consisting of the following options:
 - Enter a command
-- Enter a command from the console
 - Import commands from a .txt file -- specifically the one passed as an argument
 - Take a brief look at the syntax
 - Close the application
