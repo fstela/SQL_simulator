@@ -5,3 +5,5 @@
   
   
  ### Examples
+
+- CREATE TABLE students ((id, integer, 1000, 0), (nume, text, 128, ’’), (grupa, text,50,’1000’))
