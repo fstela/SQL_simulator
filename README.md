@@ -26,11 +26,19 @@
 4. INSERT INTO products VALUES (1,”Pepsi”,2.35,”summer”)
 
 
-5. SELECT (nume) FROM studenti WHERE id = 1
-   SELECT (id,nume,grupa)  FROM  studenti WHERE id = 1
-   SELECT (id,nume,grupa)  FROM  studenti
-   SELECT ALL FROM studenti WHERE id = 1
+5. SELECT (name) FROM pharmacy_products WHERE id = 1
+   SELECT (id, customer_name, discount) FROM orders WHERE id = 1
+   SELECT (id, name, group_number)  FROM  students
+   SELECT ALL FROM warehouse WHERE id = 1
    SELECT ALL FROM studenti
+   
+   
+6. DELETE FROM customers WHERE name = “John”
+
+
+7. UPDATE suppliers SET name = “Farmacia Tei” WHERE id = 1001
+
+
   ``` 
    
    
