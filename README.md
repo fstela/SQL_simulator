@@ -16,10 +16,9 @@
 ```  
 1. CREATE TABLE students ((id, integer, 1000, 0), (name, text, 128, ’’), (group, text,50,’1000’))
   
-  - the program will first parse the command, then it will check if the 
-table already exists in the the list of table names generated automatically 
-when the first table is created, saved as a .txt file. Next, the column 
-description will be assigned to a text file, whose name maches the one of table.
+  - the program will first parse the command, then it will check if the table already 
+exists in the the list of table names generated automatically when the first table is created, 
+saved as a .txt file. Next, the column description will be assigned to a text file, whose name matches the table's.
 
 2. DROP TABLE students
 
