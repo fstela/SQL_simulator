@@ -11,7 +11,7 @@
 - Take a brief look at the syntax
 - Close the application
   
-  
+```  
  ### Examples
 
 1. CREATE TABLE students ((id, integer, 1000, 0), (name, text, 128, ’’), (group, text,50,’1000’))
@@ -30,3 +30,7 @@
    SELECT (id,nume,grupa)  FROM  studenti
    SELECT ALL FROM studenti WHERE id = 1
    SELECT ALL FROM studenti
+  ``` 
+   
+   
+   
