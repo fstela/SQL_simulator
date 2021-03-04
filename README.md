@@ -1,4 +1,4 @@
-<div class="Box Box--spacious f4">
+<div class="Box Box--spacious f2">
   <div class="Box-header">
     <h3 class="Box-title">
       # SQL Database Simulator
