@@ -16,3 +16,17 @@
 
 1. CREATE TABLE students ((id, integer, 1000, 0), (name, text, 128, ’’), (group, text,50,’1000’))
   - the program will first parse the command, then it will check if the table already exists in the the list of table names generated automatically when the first table is created, saved as a .txt file. Next, the column description will be assigned to a text file, whose name maches the one of table.
+2. DROP TABLE students
+
+
+3. DISPLAY TABLE products
+
+
+4. INSERT INTO products VALUES (1,”Pepsi”,2.35,”summer”)
+
+
+5. SELECT (nume) FROM studenti WHERE id = 1
+   SELECT (id,nume,grupa)  FROM  studenti WHERE id = 1
+   SELECT (id,nume,grupa)  FROM  studenti
+   SELECT ALL FROM studenti WHERE id = 1
+   SELECT ALL FROM studenti
