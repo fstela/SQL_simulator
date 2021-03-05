@@ -157,7 +157,7 @@ public:
 									if (comanda.find(CommandProcessor::IMPORT) == 0)
 									{
 										InsertCSVCommand icc1;
-										icc1.receiveCommand(comanda);
+										icc1.afisare(comanda);
 										cout << icc1;
 									}
 								}
