@@ -56,5 +56,10 @@
 ```
    - in such manner as the previous command, the program validates the existence of the table and the columns, and uses a temporary binary file to store both the values which don't need to be modified, and the ones updated by the command.
    
-   
+```sql
+8. IMPORT exam_grades exam_grades.csv
+   ```
+   -allows the user to insert data from a `.csv` file into the associated binary file, if the table already exists and the values from the excel file match the column types
+
+
    
