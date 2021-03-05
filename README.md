@@ -59,7 +59,7 @@
 ```sql
 8. IMPORT exam_grades exam_grades.csv
    ```
-   -allows the user to insert data from a `.csv` file into the associated binary file, if the table already exists and the values from the excel file match the column types
+   - allows the user to insert data from a `.csv` file into the associated binary file, if the table already exists and the values from the excel file match the column types
 
 
    
